@@ -1,0 +1,42 @@
+.all-style {
+  display: flex;
+  gap: 5em;
+  margin-left: 1em;
+}
+
+.title-refreshB {
+  display: flex;
+  gap: 0.5em;
+  align-items: center;
+}
+
+.refresh {
+  box-shadow: 4px 2px #000;
+}
+
+ul {
+  list-style-type: none;
+  border: solid 1px #000;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  padding: 0.2em;
+}
+
+.change-bkg {
+  background-color: #d3d3d3;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
+
+.score-submit {
+  width: 40%;
+  align-self: flex-end;
+  box-shadow: 4px 2px #000;
+}
