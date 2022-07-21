@@ -25,16 +25,3 @@ submit.addEventListener('click', async (e) => {
 });
 
 refreshBtn.addEventListener('click', refresh);
-
-// const list = [
-//   { Name: 100 },
-//   { Name: 20 },
-//   { Name: 50 },
-//   { Name: 78 },
-//   { Name: 125 },
-//   { Name: 77 },
-//   { Name: 42 },
-
-// ];
-
-// createScores(list);
