@@ -21,7 +21,6 @@ submit.addEventListener('click', async (e) => {
   e.preventDefault();
   await postUser(await getId, nameInput.value, scoreInput.value);
   form.reset();
-  await refresh(e);
 });
 
 refreshBtn.addEventListener('click', refresh);
