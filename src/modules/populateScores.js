@@ -9,6 +9,11 @@ const createScore = (listContent) => {
 };
 
 const createScores = (content) => {
+  let child = ul.lastElementChild;
+  while (child) {
+    ul.removeChild(child);
+    child = ul.lastElementChild;
+  }
   content.forEach((name) => {
     const score = createScore(name);
     ul.appendChild(score);
