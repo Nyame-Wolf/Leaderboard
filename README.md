@@ -3,7 +3,7 @@
 # Leaderboard
 
 > Project Description.
-> **This is a leaderboard project. It demonstrates use of a medium wireframe. It is setup using webpack and basic html. It also demosntrates use of gitflow..**
+> **This is a leaderboard project. It demonstrates use of a medium wireframe. It is setup using webpack and basic html. It also demonstrates use of gitflow. It alsodemostrates use of an api..**
 
 ## Built With
 
@@ -19,7 +19,7 @@
 ## Project Milestones
 
 - **Milestone 0 - project setup (0.5h)** ✅
-- **Milestone 1 - Leaderboard: hit the API (2.5h)**
+- **Milestone 1 - Leaderboard: hit the API (2.5h)**✅
 - **Milestone 2 - Leaderboard: final touches (4h)**
 
 ## Authors
