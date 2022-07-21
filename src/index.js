@@ -14,7 +14,7 @@ const refreshBtn = document.querySelector('.refresh');
 const refresh = async (e) => {
   e.preventDefault();
   const scores = await getUser(await getId);
-  createScores(scores.result);
+  createScores(scores.result.sort(((a, b) => b.score - a.score)));
 };
 
 submit.addEventListener('click', async (e) => {
