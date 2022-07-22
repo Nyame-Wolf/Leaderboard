@@ -14,7 +14,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://nyame-wolf.github.io/Leaderboard/dist)
+[Live Demo Link](https://nyame-wolf.github.io/Leaderboard/)
 
 ## Getting Started
 
