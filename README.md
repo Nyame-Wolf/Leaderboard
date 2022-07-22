@@ -14,9 +14,9 @@
 
 ## Live Demo
 
-[Live Demo Link](https://nyame-wolf.github.io/Leaderboard/)
+[Live Demo Link](https://nyame-wolf.github.io/Leaderboard/dist)
 
-## Project Milestones
+## Getting Started
 
 - **Milestone 0 - project setup (0.5h)** ✅
 - **Milestone 1 - Leaderboard: hit the API (2.5h)**✅
