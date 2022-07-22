@@ -22,6 +22,26 @@
 - **Milestone 1 - Leaderboard: hit the API (2.5h)**✅
 - **Milestone 2 - Leaderboard: final touches (4h)**
 
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+vscode or preferred IDE
+
+### Setup
+
+[clone repo using ssh](git@github.com:Nyame-Wolf/Leaderboard.git)
+[clone repo using http](https://github.com/Nyame-Wolf/Leaderboard.git)
+
+### Install
+
+Run npm install to install packages
+
+### Usage
+
+Run npm run build
+run npm start
+
 ## Authors
 
 👤 **Author1**
